@@ -511,6 +511,14 @@ article {
   max-width: 15rem;
   display: block;
   flex: 1 0 auto;
+  .avatar {
+border-radius: 800px; 
+border: 3px solid rgb(128, 0, 79); 
+box-shadow: 0 0 7px #666;
+.avatar {
+  border-radius: 800px; 
+  border: 3px solid rgb(128, 0, 79); 
+  box-shadow: 0 0 7px #666;
 }
 @media only screen and (max-width: 1199px) {
   .avatar-wrapper {
